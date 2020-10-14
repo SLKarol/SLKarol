@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanislav Karol</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on **Investment register**
-
 - 🌱 I’m currently learning **graphq, mobx**
 
 - 💬 Ask me about **reactjs, redux, redux-saga**
