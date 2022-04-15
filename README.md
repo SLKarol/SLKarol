@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav Karol</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 💬 Ask me about **reactjs, redux, redux-saga,mobx, nodejs**
 
